@@ -7,9 +7,15 @@ toc: true
 thumbnail: https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1583754477694&di=d47ff8f87aa5b9681aecc5c39f66319f&imgtype=0&src=http%3A%2F%2Fsz.tedu.cn%2Fupload%2F20171127%2F20171127165435_329.jpg
 ---
 
-## 1、基础常识
-> 软件，及一系列按照特定顺序组织的计算机数据和指令的集合。有系统软件和应用软件之分。 
+Java语言概述
+
 <!--more-->
+
+---
+
+## 1、基础常识
+
+> 软件，及一系列按照特定顺序组织的计算机数据和指令的集合。有系统软件和应用软件之分。 
 
 ### 人机交互方式
 >* 图形化界面
@@ -192,12 +198,12 @@ public class HelloWorld{
 ```java
 //注释文字 
 ```
-			
+
 ### 多行注释
 ```java
  /*  注释文字 */
 ```
-			
+
 ### 文档注释（java特有）
 ```java
 /**
@@ -206,7 +212,7 @@ public class HelloWorld{
  * @param   方法的参数说明信息
  */
 ```
-		
+
 ### 注：
 >* 对于单行和多行注释，被注释的文字，不会被JVM（java虚拟机）解释执行。
 >* 多行注释里面不允许有多行注释嵌套。
@@ -217,3 +223,5 @@ public class HelloWorld{
 **来自b站 ___求知讲堂小龙___**
 <https://www.bilibili.com/video/av76235341?p=1>
 **学习所得，资料参考其所讲内容，图片部分来源于网络，如有侵权，请联系本人删除。**
+
+**才疏学浅，若有错误或不当之处，可批评指正，还请见谅！**

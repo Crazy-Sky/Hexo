@@ -99,5 +99,5 @@ theme: icarus
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: https://github.com/crazy-sky/crazy-sky.github.io.git
+  repo: git@github.com:crazy-sky/crazy-sky.github.io.git
   branch: master

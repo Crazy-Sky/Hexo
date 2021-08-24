@@ -1,10 +1,10 @@
 ---
 title: 第一章 Java语言概述
 date: 2020-03-09 15:00:00
-tag: [Java,Java SE]
-categories: 学习
+tag: Java SE
+categories: Java
 toc: true
-thumbnail: https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1583754477694&di=d47ff8f87aa5b9681aecc5c39f66319f&imgtype=0&src=http%3A%2F%2Fsz.tedu.cn%2Fupload%2F20171127%2F20171127165435_329.jpg
+thumbnail: /thumbnails/Java/java.jpg
 ---
 
 Java语言概述

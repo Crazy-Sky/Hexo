@@ -13,7 +13,7 @@ timezone: ''
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://crazy-sky.github.io
+url: http://www.crazy-sky.top/
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
@@ -100,4 +100,6 @@ theme: icarus
 deploy:
   type: git
   repo: git@github.com:crazy-sky/crazy-sky.github.io.git
+#  repo: git@1.15.19.175:/home/git/blog.git
+#  repo: git@192.168.174.132:/home/git/hexo.git
   branch: master
